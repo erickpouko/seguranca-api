@@ -18,6 +18,7 @@ export class EpiRepository {
         // Assim podemos trabalhar com os dados dentro da aplicação.
         return JSON.parse(dados);
     }
+
     findById(id: number) {
         const epis = this.findAll();
         return epis.find((epi) => epi.id === id);
@@ -36,6 +37,7 @@ export class EpiRepository {
         );
         return novoEpi;
     }
+
     delete(id: number) {
         const epis = this.findAll();
         const idx = epis.findIndex(epi => epi.id === id);
@@ -48,6 +50,7 @@ export class EpiRepository {
         );
         return true;
     }
+
     update(id: number, epi: any) {
         const epis = this.findAll();
         const idx = epis.findIndex(epi => epi.id === id);
@@ -60,6 +63,7 @@ export class EpiRepository {
         );
         return true;
     }
+
     patch(id: number, epi: any) {
         const epis = this.findAll();
         const idx = epis.findIndex(epi => epi.id === id);

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "NR-10",
+    "cargaHoraria": 16,
+    "validade": "2028-06-15"
+  },
+  {
+    "id": 2,
+    "nome": "NR-10",
+    "cargaHoraria": 16,
+    "validade": "2028-06-15"
+  },
+  {
+    "id": 3,
+    "nome": "NR-33",
+    "cargaHoraria": 40,
+    "validade": "2027-12-10"
+  },
+  {
+    "id": 90,
+    "nome": "NR-100",
+    "cargaHoraria": 46,
+    "validade": "2048-06-15"
+  }
+]
