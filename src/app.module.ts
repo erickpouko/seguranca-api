@@ -1,6 +1,6 @@
 import { Module } from '@nestjs/common';
 import { AppController } from './controller/epi.controller';
-import { AppService } from './sevice/treinamento/epi.service';
+import { AppService } from './sevice/epi.service';
 import { EpiRepository } from './repository/epi.repository';
 import { TreinamentoService } from './sevice/treinamento/treinamento.service';
 import { TreinamentoRepository } from './repository/treinamento.repository';
