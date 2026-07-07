@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "nome": "Ruído Excessivo",
-    "categoria": "Físico",
-    "nivel": "Alto"
+    "nome": "Erick",
+    "categoria": "Químico",
+    "nivel": "Médio"
   },
   {
     "id": 2,
@@ -22,5 +22,11 @@
     "nome": "Postura Inadequada",
     "categoria": "Ergonômico",
     "nivel": "Médio"
+  },
+  {
+    "id": 10,
+    "nome": "Vírus e Bactérias",
+    "categoria": "Biológico",
+    "nivel": "Baixo"
   }
 ]
