@@ -22,5 +22,11 @@
     "nome": "Postura Inadequada",
     "categoria": "Ergonômico",
     "nivel": "Médio"
+  },
+  {
+    "id": 5,
+    "nome": "Capa de Sol",
+    "categoria": "Ergonômico",
+    "nivel": "Médio"
   }
 ]
