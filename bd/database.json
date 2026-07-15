@@ -28,5 +28,11 @@
     "nome": "Capa de Sol",
     "categoria": "Ergonômico",
     "nivel": "Médio"
+  },
+  {
+    "id": 6,
+    "nome": "erick",
+    "categoria": "aluno",
+    "ca": "2233002"
   }
 ]
