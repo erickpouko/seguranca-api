@@ -1,5 +1,5 @@
 import { Controller, Get, Param, Post, Body, Delete, Put, Patch } from '@nestjs/common';
-import { AppService } from '../sevice/epi.service';
+import { AppService } from '../service/epi.service';
 
 @Controller('epis')
 export class AppController {

@@ -1,5 +1,5 @@
 import { Controller, Get, Param, Post, Body, Delete, Put, Patch } from '@nestjs/common';
-import { TreinamentoService } from 'src/sevice/treinamento.service';
+import { TreinamentoService } from 'src/service/treinamento.service';
 
 @Controller('treinamento')
 export class TreinamentoController {

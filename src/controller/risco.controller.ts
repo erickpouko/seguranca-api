@@ -1,5 +1,5 @@
 import { Controller, Get, Param, Post, Body, Delete, Put, Patch } from '@nestjs/common';
-import { RiscoService } from 'src/sevice/risco.service';
+import { RiscoService } from 'src/service/risco.service';
 
 
 @Controller('risco')
